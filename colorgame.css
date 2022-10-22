@@ -37,12 +37,12 @@ h1{
 
 
 .square{
-    width: 30%;
+    width: 18%;
     background-color: purple ;
-    padding-bottom: 30%;
+    padding-bottom: 20%;
     float: left;
-    margin: 1.66%;
-    border-radius: 15px;
+    margin: .8%;
+    border-radius: 30px;
     transition: background 0.5s;
     --webkit-transition: background 0.5s;
     -moz-transition: background 0.5s;
@@ -50,7 +50,7 @@ h1{
 }
 
 #container{
-    max-width: 65%;
+    max-width: 85%;
     margin: 0 auto;
 }
 
@@ -89,3 +89,4 @@ button:hover{
     width: 24%;
     color: rgb(138, 168, 145);
 }
+
